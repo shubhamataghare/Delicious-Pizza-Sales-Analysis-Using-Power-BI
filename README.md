@@ -1,5 +1,6 @@
-# Power-BI-Projects
-Delicious Pizza Dashboard Insights Summary:
+#Delicious Pizza Sales Analysis Dashboard 
+
+Insights Summary:
 
 ﻿At $17,168, Hot Pepperoni Feast had the highest Sales Amount and was 156.09% higher than Meatzaa, which had the lowest Sales Amount at $6,704.﻿﻿
 ﻿﻿
