@@ -1,4 +1,4 @@
-#Delicious Pizza Sales Analysis Dashboard 
+# Delicious Pizza Sales Analysis Dashboard 
 
 Insights Summary:
 
